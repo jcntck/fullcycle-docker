@@ -2,7 +2,11 @@
 
 Este repositório contém os dois desafios propostos no módulo de `Docker` no curso Full Cycle 3.0.
 1. [Go](#go)
+<<<<<<< HEAD
 2. [Nginx com Node](#nginx-com-node)
+=======
+2. [Nginx com Node.js](#nginx-com-node.js) (Em desenvolvimento)
+>>>>>>> cba9ffd5e1512095446b240770e2fc2006c3dade
 
 ## Go
 
